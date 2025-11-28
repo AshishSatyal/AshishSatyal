@@ -4,23 +4,24 @@ Web Developer | Frontend Engineer | Tech Enthusiast
 I'm a passionate Web Developer focused on building clean, fast, and intuitive user interfaces.
 I love turning ideas into functional digital experiences and exploring modern technologies.
 
-🚀 Tech Stack
+## 🚀 Skills & Technologies
 
-Frontend:
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Tools:
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-Others:
+### Others
 ![API Integration](https://img.shields.io/badge/API_Integration-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
 
 
 🧩 Featured Projects
