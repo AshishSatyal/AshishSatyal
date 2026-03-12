@@ -43,4 +43,4 @@ Tech: JavaScript, React, TailwindCSS
 🤝 Let’s Connect
 
 📩 Email: ashishsatyal4@gmail.com
-🌍 Portfolio: aashishsatyal.com.np
+🌍 Portfolio: https://aashishsatyal.com.np
